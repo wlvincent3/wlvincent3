@@ -6,7 +6,7 @@ Operations and policy professional building AI-powered tools to solve real probl
 
 - MA, University of Chicago — Harris School of Public Policy
 - Operations Analyst, UHNW wealth management
-- Series 65 | CFA Certificate in ESG Investing | CAPM (in progress)
+- Series 65 | CFA Alternatives and Private Markets Certificate | CAPM (in progress)
 - Based in San Francisco
 
 ## Projects
