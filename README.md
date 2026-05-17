@@ -1,4 +1,4 @@
-# Hi, I'm Wallace
+# Wallace Vincent 
 
 Operations and policy professional building AI-powered tools to solve real problems.
 
