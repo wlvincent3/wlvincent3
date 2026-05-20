@@ -15,7 +15,7 @@ Operations and policy professional building tools to solve real workflow problem
 Pulls from 6 sources (JSearch, USAJobs, Greenhouse, Lever, The Muse, Workday), scores listings against a configurable profile, deduplicates, and syncs to Google Sheets.
 
 ### [CAPM Exam Prep Quiz](https://github.com/wlvincent3/capm-quiz-app)
-React quiz app covering all four CAPM exam domains with 76 scenario-based questions and answer rationale.
+React quiz app covering all four CAPM exam domains with 123 scenario-based questions and answer rationale.
 
 ### [Flight Search](https://github.com/wlvincent3/flight-search)
 Searches Google Flights across multiple airports, stop counts, and return dates in one run. Exports a formatted Excel workbook.
