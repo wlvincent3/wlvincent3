@@ -6,7 +6,7 @@ Operations and policy professional building tools to solve real workflow problem
 
 - MA, University of Chicago (Harris School of Public Policy)
 - Operations Analyst, UHNW wealth management
-- Series 65 | Private Markets and Alternative Investments Certificate (CFA) | CAPM (in progress)
+- Series 65 | Private Markets and Alternative Investments Certificate (CFA) | CAPM (PMI) 
 - Based in San Francisco
 
 ## Projects
